@@ -1,0 +1,6 @@
+<map id="pal_nvme_read" name="pal_nvme_read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a71ff52dab984ba2e8941ec6d39af0dd6" title=" " alt="" coords="174,5,273,32"/>
+<area shape="rect" id="node3" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="164,56,283,83"/>
+<area shape="rect" id="node4" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="331,56,473,83"/>
+</map>

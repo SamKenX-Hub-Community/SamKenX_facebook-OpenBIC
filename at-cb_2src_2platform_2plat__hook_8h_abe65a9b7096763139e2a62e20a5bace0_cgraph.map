@@ -1,0 +1,11 @@
+<map id="pre_accl_mux_switch" name="pre_accl_mux_switch">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,152,108"/>
+<area shape="rect" id="node2" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a3219f2ac1fac151dbe19affa58acc279" title=" " alt="" coords="211,5,353,32"/>
+<area shape="rect" id="node3" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a030290ba9bdfb95ddad14883664cf46a" title=" " alt="" coords="213,56,351,83"/>
+<area shape="rect" id="node4" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a6efa8159ef7ac63e29413ed7f1fcf240" title=" " alt="" coords="200,107,364,133"/>
+<area shape="rect" id="node7" href="$common__i2c__mux_8c.html#a4db4a73e2c731c3e8dbf88a0c50a6769" title=" " alt="" coords="221,161,343,188"/>
+<area shape="rect" id="node5" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a71ff52dab984ba2e8941ec6d39af0dd6" title=" " alt="" coords="442,48,541,75"/>
+<area shape="rect" id="node6" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a06d61056c91f3d53b68fa3d13886e3ac" title=" " alt="" coords="412,99,571,141"/>
+<area shape="rect" id="node8" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="431,165,552,192"/>
+<area shape="rect" id="node9" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="619,165,761,192"/>
+</map>

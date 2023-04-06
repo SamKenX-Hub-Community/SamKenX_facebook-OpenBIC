@@ -1,0 +1,21 @@
+<map id="pal_get_pcie_card_sensor_reading" name="pal_get_pcie_card_sensor_reading">
+<area shape="rect" id="node1" title=" " alt="" coords="5,216,179,257"/>
+<area shape="rect" id="node2" href="$at-mc_2src_2platform_2plat__sensor__table_8c.html#a7f46a01826e2ad87a221cd81778f14f2" title=" " alt="" coords="649,183,800,224"/>
+<area shape="rect" id="node3" href="$at-cb_2src_2platform_2plat__dev_8c.html#ac9653f62a44d270ae1f6bb1ed12a4b42" title=" " alt="" coords="227,97,379,123"/>
+<area shape="rect" id="node11" href="$at-mc_2src_2platform_2plat__hook_8c.html#af85b23acc687c93427ef5dd8ab0e6866" title=" " alt="" coords="229,198,376,225"/>
+<area shape="rect" id="node13" href="$at-mc_2src_2platform_2plat__hook_8c.html#a4284246d5be0842ce63e3f400087b7ba" title=" " alt="" coords="227,249,378,275"/>
+<area shape="rect" id="node16" href="$at-mc_2src_2platform_2plat__hook_8c.html#a2a0d8358bd83947fe8a87d96c4c99cd9" title=" " alt="" coords="233,299,372,326"/>
+<area shape="rect" id="node19" href="$at-mc_2src_2platform_2plat__hook_8c.html#ad32448308b3d8c84305d764f87cf6edf" title=" " alt="" coords="231,350,375,377"/>
+<area shape="rect" id="node4" href="$at-cb_2src_2platform_2plat__dev_8c.html#ab5a183f6502919dd93650ca51044821d" title=" " alt="" coords="456,46,572,73"/>
+<area shape="rect" id="node10" href="$at-cb_2src_2platform_2plat__dev_8c.html#a8a28cdf8e4e6cb3d603f479ec3fa4e8c" title=" " alt="" coords="459,97,569,123"/>
+<area shape="rect" id="node5" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a71ff52dab984ba2e8941ec6d39af0dd6" title=" " alt="" coords="675,71,774,98"/>
+<area shape="rect" id="node6" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#ae4bbc6c6e274d7c42b16b8f7bae9aef4" title=" " alt="" coords="654,5,795,47"/>
+<area shape="rect" id="node8" href="$hal__i2c_8c.html#a10a12888a55c2d866fcf01cbd342652f" title=" " alt="" coords="665,122,784,149"/>
+<area shape="rect" id="node7" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a06d61056c91f3d53b68fa3d13886e3ac" title=" " alt="" coords="848,5,1007,47"/>
+<area shape="rect" id="node9" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="856,223,999,250"/>
+<area shape="rect" id="node12" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a030290ba9bdfb95ddad14883664cf46a" title=" " alt="" coords="445,249,583,275"/>
+<area shape="rect" id="node14" href="$at-mc_2src_2platform_2plat__sensor__table_8c.html#a0779626464418f19ddc77b20e2ce16e8" title=" " alt="" coords="427,299,601,326"/>
+<area shape="rect" id="node15" href="$at-mc_2src_2platform_2plat__class_8c.html#ab16df4183cbafff291c816a40ec4ae12" title=" " alt="" coords="657,284,793,325"/>
+<area shape="rect" id="node17" href="$common__i2c__mux_8c.html#a4db4a73e2c731c3e8dbf88a0c50a6769" title=" " alt="" coords="453,350,575,377"/>
+<area shape="rect" id="node18" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="664,350,785,377"/>
+</map>

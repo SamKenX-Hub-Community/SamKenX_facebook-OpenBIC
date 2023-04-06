@@ -1,0 +1,8 @@
+<map id="pal_ina233_init" name="pal_ina233_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,113,91"/>
+<area shape="rect" id="node2" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a71ff52dab984ba2e8941ec6d39af0dd6" title=" " alt="" coords="183,5,281,32"/>
+<area shape="rect" id="node3" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#ae4bbc6c6e274d7c42b16b8f7bae9aef4" title=" " alt="" coords="161,57,303,98"/>
+<area shape="rect" id="node5" href="$hal__i2c_8c.html#a044cf163a5942b056d4a4feb0c056e9e" title=" " alt="" coords="171,123,293,149"/>
+<area shape="rect" id="node4" href="$at-cb_2src_2platform_2plat__sensor__table_8c.html#a06d61056c91f3d53b68fa3d13886e3ac" title=" " alt="" coords="351,57,509,98"/>
+<area shape="rect" id="node6" href="$hal__i2c_8c.html#abe0116512c803f4b7188c17345eb998f" title=" " alt="" coords="359,123,501,149"/>
+</map>
